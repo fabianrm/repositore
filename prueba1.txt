@@ -1,1 +1,4 @@
 Como te vas
+
+
+Este archivo debe ser modificado para que los desarrolladores puedan utilizarlo
